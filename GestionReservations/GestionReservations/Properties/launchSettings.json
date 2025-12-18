@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "GestionReservations": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
